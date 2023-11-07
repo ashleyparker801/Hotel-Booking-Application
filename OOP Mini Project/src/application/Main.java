@@ -78,6 +78,7 @@ gp.setAlignment(Pos.TOP_LEFT);
    
     ToggleGroup tg = new ToggleGroup();
    
+   // Ashley Parker changed hotel names
     RadioButton r1 = new RadioButton("Basic suite");
     RadioButton r2 = new RadioButton("Extra suite");
     RadioButton r3 = new RadioButton("Fancy suite");
