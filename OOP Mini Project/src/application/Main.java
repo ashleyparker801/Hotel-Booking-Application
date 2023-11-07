@@ -78,10 +78,10 @@ gp.setAlignment(Pos.TOP_LEFT);
    
     ToggleGroup tg = new ToggleGroup();
    
-    RadioButton r1 = new RadioButton("Standard suite");
-    RadioButton r2 = new RadioButton("Deluxe suite");
-    RadioButton r3 = new RadioButton("Executive suite");
-    RadioButton r4 = new RadioButton("Presidential suite");
+    RadioButton r1 = new RadioButton("Basic suite");
+    RadioButton r2 = new RadioButton("Extra suite");
+    RadioButton r3 = new RadioButton("Fancy suite");
+    RadioButton r4 = new RadioButton("Honeymoon suite");
    
     r1.setToggleGroup(tg);
     r2.setToggleGroup(tg);
